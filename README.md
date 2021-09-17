@@ -1,1 +1,2 @@
-# Projeto para aprendizagem usando o NodeJs, Sequalize e EJS para construir uma aplicação de pergunta e respostas!!
+# Projeto para aprendizagem usando o NodeJs!!
+Utilizar NodeJs e EJS para um sistema de perguntas e respostas.
